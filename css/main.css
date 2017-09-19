@@ -28,8 +28,8 @@ a {
   border-color: #860927;
 }
 
-.hr {
-  color: #e2e2e2;
+hr {
+  border-color: #e2e2e2;
 }
 
 .footer {
